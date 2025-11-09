@@ -1,4 +1,4 @@
-# locacao-motos-testes-sprint4
+# Locação de motos - testes - sprint 4 - Equipe Decepticons
 sprint 4 – compliance, quality assurance & tests
 
 nessa sprint o foco foi validar as principais funcionalidades do sistema de locação de motos.
