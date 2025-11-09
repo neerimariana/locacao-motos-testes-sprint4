@@ -13,4 +13,5 @@ cada test case tem o título, a descrição com o objetivo e os steps, mostrando
 o vídeo mostra a configuração e execução dos testes no azure boards e também a parte automatizada no postman, validando o funcionamento das rotas da api.
 
 link de acesso ao Azure Boards: https://dev.azure.com/RM556284/Decepticons-Challenge/_workitems/recentlyupdated/
+
 link do vídeo: https://youtu.be/lCdL9JSewUc
