@@ -12,7 +12,7 @@ os testes manuais foram feitos cobrindo as principais partes do sistema, como ca
 cada test case tem o título, a descrição com o objetivo e os steps, mostrando o que foi feito e o resultado esperado.
 os detalhes técnicos, tipo dados de entrada, jsons e respostas esperadas, coloquei na parte de discussion, que é onde fica mais organizado.
 
-o vídeo mostra a configuração e execução dos testes no azure boards e também a parte automatizada no postman, validando o funcionamento das rotas da api.
+o vídeo mostra a configuração da parte automatizada no postman, validando os testes e o funcionamento das rotas da api.
 
 link de acesso ao Azure Boards: https://dev.azure.com/RM556284/Decepticons-Challenge/_workitems/recentlyupdated/
 
